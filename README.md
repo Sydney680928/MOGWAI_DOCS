@@ -12,3 +12,6 @@ Their translation is planned and will be released as soon as possible.
 But the documentation comes with examples that are easy to reproduce even if you do not understand French.
 
 And yes, as you have most likely guessed, MOGWAI runtime is a little French…
+
+---
+Back to the [main MOGWAI GitHub repository](https://github.com/Sydney680928/MOGWAI-PUBLIC)
