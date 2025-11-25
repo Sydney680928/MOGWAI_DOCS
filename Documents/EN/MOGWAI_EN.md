@@ -1,6 +1,6 @@
 # MOGWAI BASICS
 
-## Table des matières
+## Table of Contents
 
 [INTRODUCTION](#introduction)<br>
 [GETTING OFF TO A GOOD START](#getting-off-to-a-good-start)<br>
