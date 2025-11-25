@@ -1,6 +1,6 @@
-# MOGWAI DOCS
-
 ![MOGWAI](./Images/img01.png)
+
+# MOGWAI DOCS
 
 This repository contains the documentation on the [MOGWAI runtime](https://www.mogwai.eu.com).
 
