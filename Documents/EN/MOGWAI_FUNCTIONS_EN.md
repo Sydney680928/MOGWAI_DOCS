@@ -2062,11 +2062,11 @@ Returns a data composed of the read values.
 ***
 
 ### `serial.readLine`
-Reads a line from the serial port whose name is passed as parameter. 
+Reads a line from the serial port whose name and timeout are passed as parameter. 
 The function returns the read string (the line).
 
 ```
-'P1' serial.readLine
+'P1' 1000 serial.readLine
 # Pushes the DATA corresponding to the read information onto the stack.
 ```
 ***
