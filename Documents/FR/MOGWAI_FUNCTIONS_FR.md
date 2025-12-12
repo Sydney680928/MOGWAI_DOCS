@@ -2062,11 +2062,11 @@ Retourne un data composé des valeurs lues.
 ***
 
 ### `serial.readLine`
-Lit une ligne depuis le port série dont le nom est passé en paramètre. 
+Lit une ligne depuis le port série dont le nom et le timeout sont passés en paramètre. 
 La fonction retourne la chaîne de caractères (la ligne) lue.
 
 ```
-'P1' serial.readLine
+'P1' 1000 serial.readLine
 # Pose sur la pile le DATA correspondant aux informations lues.
 ```
 ***
